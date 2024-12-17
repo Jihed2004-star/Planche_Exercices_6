@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_6\ex4\main.cpp
+	<iostream>
+
+1734453472 source:c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_6\ex4\src\piece.cpp
+	"Piece.h"
+
+1734453472 c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_6\ex4\include\piece.h
+	<string>
+
+1734453727 source:c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_6\ex4\src\pion.cpp
+	"Pion.h"
+	<iostream>
+
+1734453728 c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_6\ex4\include\pion.h
+	"Piece.h"
+
+1734453608 source:c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_6\ex4\src\roi.cpp
+	"Roi.h"
+	<iostream>
+
+1734453608 c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_6\ex4\include\roi.h
+	"Piece.h"
+

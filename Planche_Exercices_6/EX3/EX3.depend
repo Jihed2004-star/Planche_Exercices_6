@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1734452893 source:c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_6\ex3\main.cpp
+	"Voiture.h"
+	"Camion.h"
+	<vector>
+	<iostream>
+
+1734452769 source:c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_6\ex3\src\vehicule.cpp
+	"Vehicule.h"
+	<iostream>
+
+1734452748 c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_6\ex3\include\vehicule.h
+	<string>
+
+1734452847 source:c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_6\ex3\src\voiture.cpp
+	"Voiture.h"
+	<iostream>
+
+1734452828 c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_6\ex3\include\voiture.h
+	"Vehicule.h"
+
+1734452884 source:c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_6\ex3\src\camion.cpp
+	"Camion.h"
+	<iostream>
+
+1734452885 c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_6\ex3\include\camion.h
+	"Vehicule.h"
+

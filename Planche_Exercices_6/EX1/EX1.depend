@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1734451034 source:c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_6\ex1\main.cpp
+	<iostream>
+	"Vecteur.h"
+
+1734451049 source:c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_6\ex1\src\vecteur.cpp
+	"Vecteur.h"
+	<iostream>
+
+1734451320 c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_6\ex1\include\vecteur.h
+
+1734451418 source:c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_6\ex1\src\vecteur3d.cpp
+	"Vecteur3D.h"
+	"Vecteur.h"
+	<iostream>
+
+1734451331 c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_6\ex1\include\vecteur3d.h
+	"Vecteur.h"
+

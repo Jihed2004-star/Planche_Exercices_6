@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1734455316 source:c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_6\ex6\main.cpp
+	"Enseignant.h"
+	"Etudiant.h"
+	"Contractuel.h"
+	<vector>
+	<iostream>
+
+1734455246 source:c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_6\ex6\src\personne.cpp
+	"Personne.h"
+
+1734455246 c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_6\ex6\include\personne.h
+	<string>
+
+1734455246 source:c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_6\ex6\src\enseignant.cpp
+	"Enseignant.h"
+
+1734455246 c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_6\ex6\include\enseignant.h
+	"Personne.h"
+
+1734455345 source:c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_6\ex6\src\etudiant.cpp
+	"Etudiant.h"
+
+1734455246 c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_6\ex6\include\etudiant.h
+	"Personne.h"
+
+1734455350 source:c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_6\ex6\src\contractuel.cpp
+	"Contractuel.h"
+
+1734455246 c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_6\ex6\include\contractuel.h
+	"Enseignant.h"
+	"Etudiant.h"
+

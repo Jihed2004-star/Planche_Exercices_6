@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1734452217 source:c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_6\ex2\main.cpp
+	"RobotChasseur.h"
+	<vector>
+
+1734452453 source:c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_6\ex2\src\robot.cpp
+	"Robot.h"
+	<iostream>
+
+1734452432 c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_6\ex2\include\robot.h
+	<string>
+	<cmath>
+
+1734452301 source:c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_6\ex2\src\robotchasseur.cpp
+	"RobotChasseur.h"
+	<iostream>
+
+1734452176 c:\users\mega pc\desktop\cpi 2\c++\planche_exercices_6\ex2\include\robotchasseur.h
+	"Robot.h"
+
